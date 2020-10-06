@@ -3,7 +3,7 @@ import data from './data.js'
 const itemsContainer = document.getElementById('items')
 const itemList = document.getElementById('item-list')
 
-//itemList.innerHTML = '<li>Hello World </li>'
+// itemList.innerHTML = '<li>Hello World </li>'
 
 const cartQty = document.getElementById('cart-qty')
 const cartTotal = document.getElementById('cart-total')
